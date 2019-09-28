@@ -1,6 +1,8 @@
 # Exploring the interface between Molecular Genetics and Data Science
 
 Hello! My name is Kyler Kanegawa, and I am a recent graduate from UBC. In 2017/2018, I participated and graduated from the UBC science Co-op program with experience in both bacterial culture and antibody generation. My interests involve working with immunotherapy, diagnostic research with NGS data, and clinical onco-genomics. 
+
+![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/circos-conde-nast.png?raw=true)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
