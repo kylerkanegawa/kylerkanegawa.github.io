@@ -1,8 +1,8 @@
 # Where do medication errors occur the most in a pharmacy pipeline?
 
-![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/pharmacypipeline.png?raw=true)
+![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Pharmacypipleine.png?raw=true)
 
-Hello! My name is Kyler Kanegawa, and I am a recent graduate from UBC. In 2017/2018, I participated and graduated from the UBC science Co-op program with experience in both bacterial culture and antibody generation. My interests involve working with immunotherapy, diagnostic research with NGS data, and clinical onco-genomics. 
+In a pharmacy, there are many different steps that occur from the moment that you drop off your prescription, to the time that you pick up the medications. Each step of the pipeline has the potential for errors to occur. Click on each step to learn more about each section of the pipeline!
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/circos-conde-nast.png?raw=true)
 ### Markdown
