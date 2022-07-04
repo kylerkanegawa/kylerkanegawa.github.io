@@ -7,7 +7,7 @@ In a pharmacy, there are many different steps that occur from the moment that yo
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Pharmacypipleine.png?raw=true)
 
-![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/circos-conde-nast.png?raw=true)
+![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Pipelinewithgraphs.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
