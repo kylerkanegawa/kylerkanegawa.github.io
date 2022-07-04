@@ -2,6 +2,8 @@
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Pharmacypipleine.png?raw=true)
 
+<img src="https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/nathaniel-yeo-747NDboAWNY-unsplash.jpg" width="600">
+
 In a pharmacy, there are many different steps that occur from the moment that you drop off your prescription, to the time that you pick up the medications. Each step of the pipeline has the potential for errors to occur. Click on each step to learn more about each section of the pipeline!
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/circos-conde-nast.png?raw=true)
