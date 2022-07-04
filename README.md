@@ -1,6 +1,6 @@
 # Where do medication errors occur the most in a pharmacy pipeline?
 
-![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/linkedintest.jpg?raw=true)
+![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/pharmacypipeline.png?raw=true)
 
 Hello! My name is Kyler Kanegawa, and I am a recent graduate from UBC. In 2017/2018, I participated and graduated from the UBC science Co-op program with experience in both bacterial culture and antibody generation. My interests involve working with immunotherapy, diagnostic research with NGS data, and clinical onco-genomics. 
 
