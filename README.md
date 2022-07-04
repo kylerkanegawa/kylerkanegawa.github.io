@@ -1,4 +1,4 @@
-# Exploring the interface between Molecular Genetics and Data Science
+# Where do medication errors occur the most in a pharmacy pipeline?
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/linkedintest.jpg?raw=true)
 
