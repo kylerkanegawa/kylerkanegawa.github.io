@@ -28,31 +28,53 @@
 
 1. Prescribing
 
+   Roughly 9% of medication errors occurred during the prescribing phase. One of the most common errors that happen is if a dosage of a drug is not appropriate for the person taking it.
+
+   ### Common Problem: Dosing a drug for a child
+
+   ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/pediatricdosing.jpg?raw=true)
+
+   Children are at a high risk of medication errors mainly because the amount of drug that they should receive highly depends on their age and weight. Not only that, but medication errors in children are **3 times** more likely to cause death or disability compared to adults. A study on children's prescriptions in community pharmacies showed that obtaining a weight for a child was difficult, and that only 32% of pharmacists calculated a weight-based dose to check a prescription.
+
+   > source: Condren *et al.* The Fate of Pediatric Prescriptions in Community Pharmacies *Journal of patient safety*. 2015;11:79-88.
+
+   ## Solution: Access to lab records and a person's Electronic medical records (EMR)
+
+   
+
+2. Prescription Entry
+
+   Over 58% of errors were reported to occur in this stage. The most common error that was made was an incorrect dose or an incorrect quantity.
+
    ### Common Pitfall: Interpreting a handwritten prescription
 
    ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Ineligible_prescription.png?raw=true)
 
    > Source: [The End Is Near for Illegible Handwritten Prescriptions in New York (nymag.com)](https://nymag.com/intelligencer/2016/03/new-york-eliminating-handwritten-prescriptions.html)
 
-   One of the most common mistakes that can happen in a pharmacy
+   One of the most common mistakes that can happen in a pharmacy is during the interpretation of an incoming prescription. Illegible handwriting or misinterpretation of language can often cause the wrong drug or dosage to be dispensed. While there are many checks and balances to prevent these mistakes from reaching you, you are most likely going to see an error from a handwritten prescription.
 
-   # Solution: Mandatory electronic prescriptions
+   ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Handwrittenvselectronic.png?raw=true)
 
-   
+   > Data interpreted from Jani _et. al_ Electronic Prescribing Reduced Prescribing Errors in a Pediatric Renal Outpatient Clinic. The Journal of pediatrics. 2008;152:214-218. 
 
-2. Prescription Entry
+   ## Solution: Mandatory electronic prescriptions
+
+   Electronic prescriptions allows for a direct connection from the doctor's office to your local pharmacy. Health Canada estimates that approximately **700** deaths can be prevented if electronic prescriptions are mandated in pharmacies. As of 2020, more than 12 states in the USA mandate electronic prescriptions for narcotic drugs. While most pharmacies in Canada have the capacity to take electronic prescriptions, most pharmacies still heavily rely on paper or faxes.
 
    
 
 3. Preparation/Dispensing
 
-   
+   tallman lettering, HAM/Barcoding/automated dispensing
 
 4. Administration
 
-   
+   not sure? some form of formalized medrec system?
 
 5. Monitoring/Follow-up
+
+   Pharmacist first
 
 
 
