@@ -40,7 +40,7 @@
 
    ## Solution: Access to lab records and a person's Electronic medical records (EMR)
 
-   
+   While information such as a child's weight could be attained by either talking to the parent or talking to the doctor, some possible solutions could include having a connected system with the person's electronic medical records or EMR. In some provinces such as Alberta, pharmacists could access current lab records and be able to find information such as weight from these documents. Having access to this information will allow pharmacists to be a more informed asset to the health team, and to be able to double check child doses of drugs as soon as they receive them.
 
 2. Prescription Entry
 
@@ -66,7 +66,33 @@
 
 3. Preparation/Dispensing
 
-   tallman lettering, HAM/Barcoding/automated dispensing
+   ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/blisterpack.jpg?raw=true)
+
+   Up to 29.3% of medication errors occur during the packaging and dispensing phase. Pharmacists, technicians, and assistants work hard to with many layers of protection to make sure that the drug that is prescribed is the drug that you get. 
+
+   ## Problem: packaging and dispensing has a human error element to it that should be addressed
+
+   For some lucky pharmacies, much of this process can be automated (LINK TO PAGE ABOUT AUTOMATIC DISPENSING SYSTEMS). For some less fortunate pharmacies, the team is unfortunately spread too thin, and mistakes are more likely to occur. There are ways to make sure that mistakes are less likely to occur.
+
+   ## Mandate TALLman lettering and safe abbreviations
+
+   ### TALLman lettering
+
+   Pharmacists are trained and equipped to be able to differentiate between similar sounding drugs. But in the fast pace of a community pharmacist, it is easy to make a mistake between two similar sounding drugs. As an example, try differentiating between the following list of drugs:
+
+   `hydralazine, hydroxyzine, hydromorphone, HCTZ (hydrochlorothiazide), HCTZ (hydroxychloroquine)`
+
+   TALLman lettering is a simple method of using font and upper-case letters to differentiate between similar sounding drugs. For example:
+
+   `hydrALAZINE, hydOXYzine, HYDROmorphone`
+
+   
+
+   ### Safe abbreviations
+
+   [The Institute for Safe Medication Practices has a thorough list of abbreviations that are considered dangerous and should not be used in medicine]([List of Error-Prone Abbreviations | Institute For Safe Medication Practices (ismp.org)](https://www.ismp.org/recommendations/error-prone-abbreviations-list))
+
+   
 
 4. Administration
 
