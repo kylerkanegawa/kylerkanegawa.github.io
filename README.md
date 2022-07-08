@@ -96,21 +96,13 @@
 
 4. Administration
 
-   not sure? some form of formalized medrec system?
+   [Inhaler Technique](https://pubmed.ncbi.nlm.nih.gov/29355645/)
 
 5. Monitoring/Follow-up
 
    Pharmacist first
 
-
-
-```mermaid
-graph TD;
-	A-->B;
-	A-->C;
-	B-->D;
-    C-->D;
-```
+   [Impact of a “Pharmacist First” innovative workflow plan in patients with hypertension and/or diabetes - Randy So, Yazid N. Al Hamarneh, Carlene Oleksyn, Mary Purschke, Ross T. Tsuyuki, 2021 (sagepub.com)](https://journals.sagepub.com/doi/10.1177/17151635211016498)
 
 
 
