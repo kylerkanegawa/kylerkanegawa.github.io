@@ -78,6 +78,8 @@
 
    ### TALLman lettering
 
+   ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/font_picture.jpg?raw=true)
+
    Pharmacists are trained and equipped to be able to differentiate between similar sounding drugs. But in the fast pace of a community pharmacist, it is easy to make a mistake between two similar sounding drugs. As an example, try differentiating between the following list of drugs:
 
    `hydralazine, hydroxyzine, hydromorphone, HCTZ (hydrochlorothiazide), HCTZ (hydroxychloroquine)`
@@ -107,7 +109,6 @@
 
 
 ### Quality Process and Reporting Systems ###
-
 Medication error reporting systems are an important tool to improve patient safety in community pharmacies. By reporting quality related events (QREs), healthcare professionals are able to investigate the cause of the incident to prevent future occurrences. Based on the reported data, community pharmacies are able to implement system-based strategies for quality improvement. A robust error reporting system creates a patient safety culture. 
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/Quality_process_diagram.png?raw=true)
