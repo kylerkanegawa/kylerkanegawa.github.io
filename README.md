@@ -143,6 +143,8 @@ Medication error reporting systems are an important tool to improve patient safe
 
 ![image](https://github.com/kylerkanegawa/kylerkanegawa.github.io/blob/master/table2_QRS.png?raw=true)
 
+> **Table 2:** The list of barriers to the use of the patient safety information sources and recommendations to improve implementation of patient safety information sources in community pharmacies (Barker et al., 2019). 
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
