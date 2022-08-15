@@ -82,7 +82,7 @@
 
    Pharmacists are trained and equipped to be able to differentiate between similar sounding drugs. But in the fast pace of a community pharmacist, it is easy to make a mistake between two similar sounding drugs. As an example, try differentiating between the following list of drugs:
 
-   `hydralazine, hydroxyzine, hydromorphone, HCTZ (hydrochlorothiazide), HCTZ (hydroxychloroquine)`
+   `hydralazine, hydroxyzine, hydromorphone, HCTZ (hydrochlorothiazide), HCQ (hydroxychloroquine)`
 
    TALLman lettering is a simple method of using font and upper-case letters to differentiate between similar sounding drugs. For example:
 
